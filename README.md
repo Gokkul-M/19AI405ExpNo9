@@ -144,6 +144,7 @@ while(player):
 
 <h1>Output:</h1>
 <hr>
+
 ![image](https://github.com/Gokkul-M/19AI405ExpNo9/assets/144870543/4663078b-87b8-429d-8349-1be4b19a5456)
 
 <h1>Result:</h1>
